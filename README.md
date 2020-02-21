@@ -1,6 +1,8 @@
 # Whales in ... Zamami!
-This site is dedicated to my whale whatching experiences in Zamami, Okinawa - Japan
+This site is dedicated to my whale whatching experiences in Zamami, Okinawa  
+Japan
 
+[![Jekyll](https://img.shields.io/badge/jekyll---ver%204.0---blue.svg)](https://jekyllrb.com/)
 
 ## Features & Credits:
  - [**Jekyll**](http://jekyllrb.com)
